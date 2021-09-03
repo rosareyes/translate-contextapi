@@ -15,7 +15,6 @@ const App = () => {
       <LanguageContext.Provider value={language}>
         <UserCreate></UserCreate>
       </LanguageContext.Provider>
-      <Button></Button>
     </div>
   );
 };
